@@ -1,0 +1,79 @@
+
+.aside .logo a::before{ 
+border-top: 4px solid #ffb400;
+border-left: 4px solid  #ffb400;
+ 
+}
+.aside .logo a::after{	 
+border-bottom: 4px solid  #ffb400;
+border-right: 4px solid  #ffb400;
+}
+
+.contact .contact-info-item .icon .fas,
+.blog .blog-item-inner .blog-info .blog-tags a,
+.lightbox .lightbox-controls .prev-item .fas,
+.lightbox .lightbox-controls .next-item .fas,
+.protfolio .protfolio-item .protfolio-info .icon .fas,
+.protfolio .protfolio-filter   .active,
+.about .about-content .about-text h3 span,
+.service  .service-item .service-item-inner .icon .far,
+.service  .service-item .service-item-inner .icon .fas,
+.aside .nav li a:hover,
+.aside .nav li a.active,
+body.dark .aside .nav li a:hover,
+body.dark .aside .nav li a.active{
+
+	color:  #ffb400;
+}
+
+.home .intro .social-link a,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.aside .nav-toggler span,
+.section-title h2::before,
+.section-title h2::after,
+.btn,.about .about-content .skills .skill-item .progress .progress-in,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .timeline .circle-dot,
+.blog .blog-item-inner .blog-img .blog-date{	 
+	background-color:  #ffb400;
+}
+ 
+.protfolio .protfolio-filter button:hover{
+	border-color:  #ffb400;
+}
+
+body.dark .protfolio .protfolio-filter button.active,
+ .protfolio .protfolio-filter button.active{
+ 	color :  #ffb400;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
